@@ -13,8 +13,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This is a really good challenge for beginners to test their knowledge of HTML and CSS.

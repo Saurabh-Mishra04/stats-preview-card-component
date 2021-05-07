@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: (https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-site-using-css-backgroundblend-of-images-and-flexbox-YgOtst3sD)
+- Live Site URL: [saurabh-mishra04.github,io](https://saurabh-mishra04.github.io/stats-preview-card-component/)
 
 
 ### Built with
